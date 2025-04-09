@@ -37,5 +37,8 @@
 
 ---
 
-#所需模块项目地址
-[ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)
+# 所需模块项目地址
+
+**[ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)**
+
+**[Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)**
