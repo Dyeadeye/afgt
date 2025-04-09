@@ -37,7 +37,7 @@
 
 ---
 
-# 所需模块项目地址
+# 项目
 
 **[ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)**
 
