@@ -38,4 +38,4 @@
 ---
 
 #所需模块项目地址
-[https://github.com/Dr-TSNG/ZygiskNext]
+[ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)
